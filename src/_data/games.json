@@ -1,0 +1,38 @@
+[
+    {
+        "url": "https://everdragons.com/",
+        "name": "Everdragons",
+        "logo": "everdragons.png",
+        "description": "Blockchain based gaming platform. It is the easiest and most fun way to get started with crypto and blockchain"
+    },
+    {
+        "url": "https://dapp.dragonereum.io/",
+        "name": "Dragonereum",
+        "logo": "dragonereum.png",
+        "description": "Ultimate cross between complex gameplay and decentralized technology"
+    },
+    {
+        "url": "https://www.megacryptopolis.com/",
+        "name": "MegaCryptoPolis",
+        "logo": "megacryptopolis.com.png",
+        "description": "Dесеntrаlized city builder game on the Ethereum blосkсhаin"
+    },
+    {
+        "url": "https://cryptobots.me/",
+        "name": "CryptoBots",
+        "logo": "cryptobots.png",
+        "description": "A blockchain-based game to find out whose bot army is the best!"
+    },
+    {
+        "url": "https://blockchaincuties.co",
+        "name": "Blockchain Cuties Battles",
+        "logo": "cryptokitties.png",
+        "description": "The cutest blockchain collectable adventure game."
+    },
+    {
+        "url": "https://cryptogs.io/",
+        "name": "Cryptogs",
+        "logo": "lightclogo.png",
+        "description": "Cryptogs is a cryptographically backed version of the game of pogs (milk caps)"
+    }
+]

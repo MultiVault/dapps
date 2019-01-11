@@ -1,0 +1,67 @@
+[
+    {
+        "url": "https://easytrade.io/",
+        "name": "EasyTrade",
+        "logo": "easytrade.png",
+        "description": "A marketplace for every token"
+    },
+    {
+        "url": "https://kyber.network/swap",
+        "name": "Kyber Network",
+        "logo": "kyber_logo_2x.png",
+        "description": "Decentralized exchange for ERC20 tokens"
+    },
+    {
+        "url": "https://token.store",
+        "name": "Token Store",
+        "logo": "tokenstore.png",
+        "description": "Decentralized exchange for ERC-20 tokens with an off-chain orderbook."
+    },
+    {
+        "url": "https://instant.airswap.io/",
+        "name": "AirSwap",
+        "logo": "airswap.io.png",
+        "description": "Peer-to-peer trading on Ethereum"
+    },
+    {
+        "url": "https://app.totle.com/",
+        "name": "Totle",
+        "logo": "totle.png",
+        "description": "Aggregates top decentralized exchanges for the best prices and liquidity."
+    }, {
+        "url": "https://www.bancor.network",
+        "name": "The Bancor Network",
+        "logo": "bancor.png",
+        "description": "Decentralized exchange for ERC20 tokens"
+    }, {
+        "url": "https://uniswap.io/",
+        "name": "Uniswap Exchange",
+        "logo": "uniswap.png",
+        "description": "Uniswap is a protocol for automated token exchange"
+    }, {
+        "url": "https://m.dex.top/",
+        "name": "DEx.top",
+        "logo": "dex.top.png",
+        "description": "Instant trading of ERC20 tokens on chain"
+    }, {
+        "url": "https://nami.trade/",
+        "name": "Nami.trade",
+        "logo": "logo_nami.png",
+        "description": "Enjoy the freedom of trading with a decentralized financial brokerage platform, where blockchain meets forex"
+    }, {
+        "url": "https://membrana.io/",
+        "name": "Membrana",
+        "logo": "app_logo_mark.png",
+        "description": "Membrana platfrom is a decentralized trust management ecosystem."
+    }, {
+        "url": "https://ddex.io",
+        "name": "DDEX",
+        "logo": "ddex.io.png",
+        "description": "DDEX is the demonstrative flagship hybrid decentralized exchange on top of Hydro Protocol."
+    }, {
+        "url": "http://app.ercdex.com/",
+        "name": "ERC dEX",
+        "logo": "ercdex.png",
+        "description": "Decentralized exchange powered by 0x protocol"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://www.smartdrops.io/",
+        "name": "SmartDrops",
+        "logo": "smartdrops.png",
+        "description": "SmartDrops is a platform that lets people earn crypto by joining new token."
+    },
+    {
+        "url": "https://switcheo.network/",
+        "name": "Switcheo",
+        "logo": "switcheo.network.png",
+        "description": "Switcheo is a non-custodian exchange, facilitating peer-to-peer transfers of digital assets."
+    },
+    {
+        "url": "https://www.megacryptopolis.com/",
+        "name": "MegaCryptoPolis",
+        "logo": "megacryptopolis.com.png",
+        "description": "Dесеntrаlized city builder game on the Ethereum blосkсhаin."
+    },
+    {
+        "url": "https://cryptobots.me/",
+        "name": "CryptoBots",
+        "logo": "cryptobots.png",
+        "description": "A blockchain-based game to find out whose bot army is the best!"
+    },
+    {
+        "url": "https://www.csc-game.com/",
+        "name": "Crypto Space Commander",
+        "logo": "csc.png",
+        "description": "The first blockchain-based space exploration game built in Unity3D."
+    }
+]
